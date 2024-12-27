@@ -1,0 +1,1 @@
+subdiretorio/arquivo.txt
